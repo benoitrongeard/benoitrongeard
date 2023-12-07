@@ -20,7 +20,11 @@ Frameworks icons
 <!---
 Languages icons
 -->
-[![Frameworks](https://skillicons.dev/icons?i=ts,js,dart,reactivex,java,nodejs,php,solidity,mysql,postgres)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=ts,js,dart,reactivex,java,nodejs,php,solidity)](https://skillicons.dev)
+<!---
+Database
+-->
+[![Frameworks](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
 <!---
 Stylisations icons
 -->
