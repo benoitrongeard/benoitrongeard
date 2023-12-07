@@ -1,5 +1,5 @@
 # 💫 About Me:
-
+ 
 <div align="left">
   <img src="https://github.com/benoitrongeard/benoitrongeard/blob/main/devcard.svg" width="300" align="right" alt="Benoit Rongeard Dev Card"/> 
   💻 Full stack developer who loves his job<br>
