@@ -29,5 +29,8 @@ jobs:
         with:
           target_branch: snake-output
           build_dir: dist
+          committer: Rongeard Benoit <benoit.rongeard@gmail.com>
+          author: Rongeard Benoit <benoit.rongeard@gmail.com>
+          commit_message: Update snake ressources
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
