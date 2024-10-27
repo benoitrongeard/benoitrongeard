@@ -16,7 +16,7 @@
 <!---
 Frameworks icons
 -->
-[![Frameworks](https://skillicons.dev/icons?i=angular,adonis,flutter,laravel,spring)](a "Angular")
+[![Frameworks](https://skillicons.dev/icons?i=angular,adonis,flutter,laravel,spring)](## "Angular, Adonis, Flutter, Laravel, Spring")
 <!---
 Languages icons
 -->
