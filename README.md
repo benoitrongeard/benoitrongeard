@@ -16,7 +16,7 @@
 <!---
 Frameworks icons
 -->
-[![Frameworks](https://skillicons.dev/icons?i=angular,flutter,laravel,spring)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=angular,adonis,flutter,laravel,spring)](https://skillicons.dev)
 <!---
 Languages icons
 -->
