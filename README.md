@@ -20,19 +20,19 @@ Frameworks icons
 <!---
 Languages icons
 -->
-[![Frameworks](https://skillicons.dev/icons?i=ts,js,dart,reactivex,java,nodejs,php,solidity)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=ts,js,dart,reactivex,java,nodejs,php,solidity)](## "TS, Dart, RxJS, Java, Nodejs, PHP, Solidity")
 <!---
 Database
 -->
-[![Frameworks](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=mysql,postgres)]
 <!---
 Stylisations icons
 -->
-[![Frameworks](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,sass)](## "Tailwind, Bootstrap, Bulma")
 <!---
 Tools
 -->
-[![Frameworks](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,netlify,postman,vite,vscode,ipfs)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,netlify,postman,vite,vscode,ipfs)](## "Kubernetes, Docker, Git, Netlify/Vercel, Postman, Vitejs, Ipfs")
 
 # Additional skills
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=plastic&logo=bulma&logoColor=white) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=plastic&logo=Ionic&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=plastic&logo=pnpm&logoColor=f69220) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=plastic&logo=reactivex&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=Firebase&logoColor=white) ![ARGOCD](https://img.shields.io/badge/argo-EF7B4D.svg?style=plastic&logo=argo&logoColor=white&color=%23EF7B4D) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=plastic&logo=azuredevops&logoColor=white&color=%230078D7) ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=plastic&logo=sonarqube&logoColor=white&color=%234E9BCD) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=plastic&logo=opensea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) 
