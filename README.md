@@ -4,7 +4,6 @@
   <img src="https://github.com/benoitrongeard/benoitrongeard/blob/main/devcard.png" width="300" align="right" alt="Benoit Rongeard Dev Card"/> 
   💻 Tech lead <br>
   📱 Passionate about new technology<br>
-  🦊 My dog, my partner : Kira - ShibaInu<br>
   🎂 30<br>
   🏠 France<br>
   <br>
