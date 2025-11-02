@@ -39,9 +39,9 @@ Tools
 # 📊 GitHub Stats:
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benoitrongeard&theme=react&hide_border=true&include_all_commits=true&layout=compact&exclude_repo=projet_jeux_video" width="350" align="left"/>
+  <img src="https://github-readme-stats-zeta-navy-63.vercel.app/api/top-langs/?username=benoitrongeard&theme=react&hide_border=true&include_all_commits=true&layout=compact&exclude_repo=projet_jeux_video" width="350" align="left"/>
   
-  ![](https://github-readme-stats.vercel.app/api?username=benoitrongeard&rank_icon=github&theme=react&hide_border=true&include_all_commits=true)<br/>
+  ![](https://github-readme-stats-zeta-navy-63.vercel.app/api?username=benoitrongeard&rank_icon=github&theme=react&hide_border=true&include_all_commits=true)<br/>
 </div>
 
 <picture>
